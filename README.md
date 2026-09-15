@@ -487,7 +487,7 @@
             </div>
 
             <div class="quote">
-                “TỐC CHIẾN - TỐC THẮNG”
+                “KỶ LUẬT — BẢN LĨNH — ĐOÀN KẾT — SẴN SÀNG”
             </div>
 
         </div>
@@ -566,8 +566,8 @@
         <h2>375th PARACHUTE REGIMENT</h2>
 
         <p>
-            Bản lĩnh được tôi luyện qua thử thách.
-            Kỷ luật tạo nên sức mạnh.
+            Trung Đoàn 375th 
+            Tốc Chiến - Tốc Thắng.
         </p>
 
         <a href="#gioi-thieu" class="hero-button">
