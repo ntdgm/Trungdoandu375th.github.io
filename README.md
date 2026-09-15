@@ -303,35 +303,6 @@
             font-size: 17px;
         }
 
-        /* ================= INFO ================= */
-
-        .info-grid {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 20px;
-        }
-
-        .info-box {
-            padding: 30px;
-            text-align: center;
-            background: rgba(7, 30, 47, .7);
-            border: 1px solid var(--border);
-        }
-
-        .info-box .icon {
-            font-size: 35px;
-            margin-bottom: 10px;
-            color: var(--blue-light);
-        }
-
-        .info-box h3 {
-            margin-bottom: 8px;
-        }
-
-        .info-box p {
-            color: var(--muted);
-        }
-
         /* ================= CTA ================= */
 
         .cta {
@@ -433,6 +404,25 @@
             }
         }
     </style>
+
+<style id="added-375th-logo">
+.hero-logo-behind-title {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+  transform: translate(-50%, -78%);
+  z-index: 1;
+  pointer-events: none;
+}
+.hero-content {
+  position: relative;
+  z-index: 2;
+}
+</style>
+
 </head>
 
 <body>
@@ -445,7 +435,6 @@
         <ul class="nav-links">
             <li><a href="#gioi-thieu">GIỚI THIỆU</a></li>
             <li><a href="#don-vi">ĐƠN VỊ</a></li>
-            <li><a href="#thong-tin">THÔNG TIN</a></li>
         </ul>
     </nav>
 
@@ -517,7 +506,7 @@
             </div>
 
             <div class="quote">
-                “KỶ LUẬT — BẢN LĨNH — ĐOÀN KẾT — SẴN SÀNG”
+                “TỐC CHIẾN - TỐC THẮNG”
             </div>
 
         </div>
@@ -543,10 +532,10 @@
                     BATTALION 165
                 </div>
 
-                <h3>Tiểu đoàn chiến đấu 165</h3>
+                <h3>Tiểu Đoàn Chiến Đấu Dù 165th</h3>
 
                 <p>
-                    Tiểu đoàn chiến đấu 165 là lực lượng chiến đấu
+                    Tiểu Đoàn Chiến Đấu Dù 165th là lực lượng chiến đấu
                     chủ lực trực thuộc Trung đoàn Đổ bộ đường không
                     375th, đảm nhiệm vai trò mũi nhọn trong các chiến
                     dịch đổ bộ đường không và tác chiến mặt đất.
@@ -583,41 +572,6 @@
                 </p>
 
             </article>
-
-        </div>
-
-    </section>
-
-
-    <!-- THÔNG TIN -->
-
-    <section id="thong-tin">
-
-        <div class="section-title">
-            <span>03 / THÔNG TIN</span>
-            <h2>TỔNG QUAN</h2>
-            <div class="line"></div>
-        </div>
-
-        <div class="info-grid">
-
-            <div class="info-box">
-                <div class="icon">✦</div>
-                <h3>375th</h3>
-                <p>Trung đoàn Đổ bộ đường không</p>
-            </div>
-
-            <div class="info-box">
-                <div class="icon">◈</div>
-                <h3>165</h3>
-                <p>Tiểu đoàn chiến đấu</p>
-            </div>
-
-            <div class="info-box">
-                <div class="icon">⌖</div>
-                <h3>304</h3>
-                <p>Tiểu đoàn Trinh sát</p>
-            </div>
 
         </div>
 
