@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
@@ -680,7 +681,7 @@
     <nav>
 
         <div class="logo">
-            375th PR
+            375th PARACHUTE REGIMENT
         </div>
 
         <ul class="nav-links">
@@ -793,7 +794,7 @@
 
             <div class="quote">
 
-                “TỐC CHIẾN - TỐC THẮNG”
+                “KỶ LUẬT — BẢN LĨNH — ĐOÀN KẾT — SẴN SÀNG”
 
             </div>
 
