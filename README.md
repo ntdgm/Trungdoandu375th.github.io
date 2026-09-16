@@ -549,7 +549,7 @@
 
     <nav>
         <div class="logo">
-            375th PR
+            375th PARACHUTE REGIMENT
         </div>
     </nav>
 
