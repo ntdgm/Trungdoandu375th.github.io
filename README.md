@@ -680,7 +680,7 @@
     <nav>
 
         <div class="logo">
-            375th PR
+            375th PARACHUTE REGIMENT
         </div>
 
         <ul class="nav-links">
@@ -723,7 +723,7 @@
             </h1>
 
             <h2>
-                PARACHUTE REGIMENT
+                   PARACHUTE REGIMENT
             </h2>
 
             <p>
