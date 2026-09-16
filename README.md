@@ -793,7 +793,7 @@
 
             <div class="quote">
 
-                “KỶ LUẬT — BẢN LĨNH — ĐOÀN KẾT — SẴN SÀNG”
+                “TỐC CHIẾN - TỐC THẮNG”
 
             </div>
 
